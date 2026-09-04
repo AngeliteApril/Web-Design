@@ -1,1 +1,7 @@
-body {background-color: lightcoral;}
+body {background-color: purple;}
+header {height: 100px; background-color: lightblue;}
+nav {height: 25px; background-color: lightcoral;}
+main {height: 500px; background-color: pink;}
+article {height: 450px; background-color: white; width: 70%; float: left; border-radius: 8px; margin: 5px; padding 5px;}
+aside {height: 150px; background-color: lightgray; width: 25%; float: right; margin: 5px; padding 5px;}
+footer {height: 200px; background-color: turquoise;} 
